@@ -1,0 +1,156 @@
+.logocolorg {
+    color: goldenrod;
+    font-weight: bolder;
+}
+.logocolorw {
+    color: skyblue;
+}
+/*
+.navbar-brand:hover {
+    color: darkgoldenrod;
+    font-weight: bolder;
+}
+
+make an hover effect
+
+*/
+
+.logo {
+    font-size: 26px;
+}
+.menu ul.main-menu li.dropdown a {
+    color: goldenrod;
+    font-size: 13px;
+    font-weight: 600;
+}
+h1.grey, h2.grey, h3.grey, h4.grey, h5.grey, h6.grey {
+    color: goldenrod;
+    margin: 0 auto 20px;
+}
+ul.social-icons li a {
+    color: cadetblue;
+}
+ul.social-icons li a:hover {
+    color: goldenrod;
+    font-size: 15px;
+    line-height: 30px;
+}
+.contact-us .reach span {
+    color: goldenrod;
+}
+.btn-primary {
+    color: #fff;
+    background-color: goldenrod;
+}
+.btn-primary:hover {
+    color: #fff;
+    background-color: darkgoldenrod;
+}
+ul.contact li {
+    border-bottom: 1px solid goldenrod;
+    color: goldenrod;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: goldenrod;
+}
+ul.footer-links li a {
+    color: goldenrod;
+}
+.form-control {
+    color: black;
+}
+.form-control:focus {
+    border-color: goldenrod;
+}
+.contact-us form.contact-form .form-group textarea:focus {
+    font-size: 12px;
+    border: 1px solid goldenrod;
+    box-shadow: 3px;
+}
+.copyright {
+    background: white;
+    text-align: center;
+    color: goldenrod;
+   border-top: 2px solid goldenrod;
+}
+a {
+    color: goldenrod;
+}
+.btn-secondary {
+    background: linear-gradient(to bottom, rgba(218,165,32,1), rgba(184,134,11,1));
+}
+.btn-secondary:hover {
+    background: linear-gradient(to bottom, rgba(184,134,11,1), rgba(184,134,11,1));
+}
+section h2.sub-title {
+    margin: 10px 0;
+}
+.profile-card {
+background: linear-gradient(to bottom, rgba(218,165,32,.8), rgba(184,134,11,1)), url("http://placehold.it/1030x430") no-repeat;
+}
+ul.nav-news-feed li a {
+    color: goldenrod;
+}
+ul.edit-menu li {
+    border-bottom: 1px solid goldenrod;
+}
+ul.edit-menu li a {
+    color: goldenrod;
+}
+ul.interests span.int-icons {
+    color: #fff;
+    color: goldenrod;
+}
+.timeline-cover .timeline-nav-bar .profile-menu li a.active {
+    color: goldenrod;
+}
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: goldenrod;
+}
+.edit-block ul.interests li {
+    background: goldenrod;
+}
+ul.contact li i {
+    color: goldenrod;
+}
+label {
+    color: goldenrod;
+}
+input:checked + .slider {
+    background-color: goldenrod;
+}
+b, strong {
+    font-weight: 700;
+    color: goldenrod;
+}
+.spinner {
+  background-color: goldenrod;  
+}
+#aboutusp {
+    margin-top: 40px;
+}
+#aboutush1 {
+    font-size: 34px;
+    font-family: andalus;
+}
+#sticky-sidebar img {
+    margin-bottom: 10%;
+}
+.sign-up-form .form-wrapper {
+    padding: 40px 20px 0;
+}
+#banner {
+    min-height: 620px;
+}
+.topinfo {
+/*    background: linear-gradient(to bottom, rgba(43,57,144,.8), rgba(39,170,225,1) 65%);*/
+    position: absolute;
+    width: 340px;
+    min-height: auto;
+    top: 250px;
+    right: 250px;
+/*    padding: 40px 30px;*/
+    text-align: justify;
+    color: goldenrod;
+    z-index: 1001;
+}
